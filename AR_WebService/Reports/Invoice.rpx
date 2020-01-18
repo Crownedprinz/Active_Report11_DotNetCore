@@ -76,7 +76,7 @@
   </Sections>
   <ReportComponentTray />
   <DataSources>
-    <OleDbDataSource Connect="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\abdias.michael\Documents\GrapeCity Samples\ActiveReports 12\Data\NWIND.mdb;Persist Security Info=False" SQL="SELECT * FROM Invoices &#xD;&#xA;ORDER BY Customers.CompanyName, OrderID" />
+    <OleDbDataSource Connect="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Ademolanj\Documents\GrapeCity Samples\ActiveReports 10\Data\NWind.mdb;Persist Security Info=False" SQL="SELECT * FROM Invoices &#xD;&#xA;ORDER BY Customers.CompanyName, OrderID" />
   </DataSources>
   <Script><![CDATA[public void GFOrderID_BeforePrint()
 {

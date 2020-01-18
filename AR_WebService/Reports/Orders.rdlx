@@ -194,7 +194,7 @@
 	<DataSources>
 		<DataSource Name="DataSource1">
 			<ConnectionProperties>
-				<ConnectString>data source=C:\Users\abdias.michael\Documents\GrapeCity Samples\ActiveReports 12\Data\NWIND.mdb;provider=Microsoft.Jet.OLEDB.4.0;</ConnectString>
+				<ConnectString>data source=C:\Users\Ademolanj\Documents\GrapeCity Samples\ActiveReports 10\Data\NWIND.mdb;provider=Microsoft.Jet.OLEDB.4.0;</ConnectString>
 				<DataProvider>OLEDB</DataProvider>
 			</ConnectionProperties>
 		</DataSource>
